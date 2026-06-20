@@ -14,6 +14,8 @@ $theme_core = [
 	'setup',
 	'enqueue',
 	'acf',
+	'post-types',
+	'taxonomies',
 ];
 
 foreach ( $theme_core as $file ) {
